@@ -15,6 +15,8 @@
 	color: #666;
 } 
 
-#info1 .info-right, #info1 .info-left{
+#info1 .info-right, #info1 .info-left,
+#info2 .info-right, #info2 .info-left
+{
 	margin-top: 60px;
 }
